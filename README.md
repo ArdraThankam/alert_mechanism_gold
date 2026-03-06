@@ -1,4 +1,4 @@
-# Gold & Silver Price Alert System 💰
+# Gold & Silver Price Alert System (REAl TIME)
 
 A comprehensive real-time price monitoring and alert system for gold and silver prices with historical trend analysis.
 
@@ -25,7 +25,7 @@ A comprehensive real-time price monitoring and alert system for gold and silver 
 
 ## Installation
 
-### 1. Clone or Create Project Directory
+### 1. Create Project Directory
 
 ```bash
 mkdir gold-silver-alert
@@ -276,4 +276,4 @@ For issues with:
 
 ---
 
-Built with ❤️ using Streamlit, Plotly, and Python
+Built with  using Streamlit, Plotly, and Python
